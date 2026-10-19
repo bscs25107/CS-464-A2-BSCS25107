@@ -13,4 +13,5 @@ public class Cameraflow : MonoBehaviour
             transform.position, wanted, smoothSpeed * Time.deltaTime);
         transform.LookAt(target);
     }
+
 }
