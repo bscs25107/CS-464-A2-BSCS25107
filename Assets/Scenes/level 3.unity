@@ -34616,12 +34616,20 @@ PrefabInstance:
       value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 3226084082252797349, guid: d10a8efc9e2382245bb93b443192652b, type: 3}
+      propertyPath: squashY
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3226084082252797349, guid: d10a8efc9e2382245bb93b443192652b, type: 3}
       propertyPath: minAirTime
-      value: 0.06
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 3226084082252797349, guid: d10a8efc9e2382245bb93b443192652b, type: 3}
       propertyPath: fallMultiplier
-      value: 2
+      value: 2.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3226084082252797349, guid: d10a8efc9e2382245bb93b443192652b, type: 3}
+      propertyPath: squashDuration
+      value: 0.4
       objectReference: {fileID: 0}
     - target: {fileID: 3400852871499606400, guid: d10a8efc9e2382245bb93b443192652b, type: 3}
       propertyPath: m_LocalPosition.x
